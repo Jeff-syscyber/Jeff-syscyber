@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/BrunoS3D/BrunoS3D/master/wave.gif" width="30px">, Eu sou Antonio Jefferson</h1>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/BrunoS3D/BrunoS3D/master/wave.gif" width="30px">, Eu sou o Jefferson</h1>
 
 - 🌱 Atualmente estou aprendendo sobre **FireBase no React Native**
 
