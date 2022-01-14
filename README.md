@@ -6,4 +6,4 @@
 
 - 📫 Como entrar em contato comigo **antoniojeffersoncbarbosa@gmail.com**
 
-- ⚡ Curiosidade: **comecei e aprendi React Native em 5 dias de curso na RocketSeat<3**
+- ⚡ Curiosidade: **comecei e aprendi React Native em 1 semana intensiva de curso na RocketSeat ❤❤**
