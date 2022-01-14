@@ -2,6 +2,8 @@
 
 - 🌱 Atualmente estou aprendendo sobre **FireBase no React Native**
 
+- 📱 User Interface (UI) cutilizando as melhores e mais atuais ferramentas para ter as melhores interfaces mobile
+
 - 💬 Pergunte-me sobre **React Native e TypeScript.**
 
 - 📫 Como entrar em contato comigo **antoniojeffersoncbarbosa@gmail.com**
